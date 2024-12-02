@@ -2,5 +2,6 @@
   "templater-obsidian",
   "calendar",
   "dataview",
-  "obsidian-linter"
+  "obsidian-linter",
+  "mtg-card-links"
 ]
