@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/December/December 1, 2024.md",
+                "file": "Code/Git/SSH Credential Setup.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "December 1, 2024"
+              "title": "SSH Credential Setup"
             }
           }
         ]
@@ -189,18 +189,19 @@
   },
   "active": "0c79918ca6323502",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Code/Git/SSH Credential Setup.md",
+    "Daily Notes/2024/December/December 1, 2024.md",
     "Extras/Templates/Template, New Basic Code Note.md",
     "Extras/Templates/Template, Daily Note.md",
     "Code/Git/General Workflow.md",
     "3D Printing/Filament Guide.md",
     "3D Printing/3D Printer Upgrades.md",
-    "Daily Notes/2024/December/December 1, 2024.md",
     "Daily Notes/2024/November/November 30, 2024.md",
     "Code/React/Snippets or Code Blocks.md",
     "Code/JavaScript/Snippets or Code Blocks.md",
     "Code/HTML/Snippets or Code Blocks.md",
     "Code/CSS/Snippets or Code Blocks.md",
-    "Untitled.md",
     "NaN.md",
     "NaN.md",
     "Extras/Templates/Template, New Deck Upgrade.md",
@@ -222,7 +223,6 @@
     "Magic The Gathering/Built Decks/Built Decks.md",
     "Guides",
     "Magic The Gathering/Upgrading Decks/Animar.md",
-    "Magic The Gathering/To Be Built Decks/Mardu King.md",
     "Untitled.canvas",
     "Daily Notes/2024/November",
     "Daily Notes/2024/December"
