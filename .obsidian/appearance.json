@@ -3,6 +3,7 @@
   "accentColor": "#c21414",
   "interfaceFontFamily": "Cascadia Code",
   "enabledCssSnippets": [
-    "Colored Sidebar Items"
+    "Colored Sidebar Items",
+    "Notebook Backgrounds"
   ]
 }

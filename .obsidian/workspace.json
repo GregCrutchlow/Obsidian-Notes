@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01 - Personal/Daily Notes/2024/December/December 2, 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "December 2, 2024"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01 - Personal/Daily Notes/2024/December/December 2, 2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of December 2, 2024"
             }
           },
           {
@@ -190,12 +190,16 @@
   },
   "active": "7958fa8a9046e9fe",
   "lastOpenFiles": [
+    "01 - Personal/Extras/Templates/Template, Daily Note.md",
+    "01 - Personal/Daily Notes/2024/December/December 2, 2024.md",
+    "December 3, 2024.md",
+    "README.md",
+    "2024-12-02.md",
     "01 - Personal/Magic The Gathering/Upgrading Decks/Upgrading Decks.md",
     "01 - Personal/Magic The Gathering/To Be Built Decks/Decks to be Built.md",
     "01 - Personal/Magic The Gathering/Rework Decks/Decks to Rework.md",
     "01 - Personal/Magic The Gathering/Cards to Collect.md",
     "01 - Personal/Magic The Gathering/Built Decks/Built Decks.md",
-    "README.md",
     "02 - Inkline Wiki/JetEngine/Dynamic Image.md",
     "02 - Inkline Wiki/JetEngine/FAQ Accordion.md",
     "01 - Personal/Daily Notes/2024/December/December 1, 2024.md",
@@ -212,7 +216,6 @@
     "01 - Personal/3D Printing/3D Printer Upgrades.md",
     "02 - Inkline Wiki/Go High Level/Email Consent Setup.md",
     "02 - Inkline Wiki/Go High Level/Calendar Booking.md",
-    "02 - Inkline Wiki/Elementor/Hello Elementor Child.md",
     "02 - Inkline Wiki/Remote Repo/publish/attachments/vercel-project-id.png",
     "02 - Inkline Wiki/Remote Repo/publish/attachments/vercel-create-token.png",
     "02 - Inkline Wiki/Remote Repo/publish/attachments/publish-dir-yml.png",
@@ -223,9 +226,6 @@
     "02 - Inkline Wiki/Remote Repo/publish/attachments/fn-website-demo.gif",
     "02 - Inkline Wiki/Remote Repo/publish/attachments/enable-actions-github.png",
     "02 - Inkline Wiki/Remote Repo/publish/attachments/disconnect-repo-vercel.png",
-    "02 - Inkline Wiki/Remote Repo/publish/works-out-of-the-box-with-markdown-files.md",
-    "02 - Inkline Wiki/Remote Repo/publish/update-publish-settings-github-actions.md",
-    "02 - Inkline Wiki/Remote Repo/publish/statically-generated.md",
     "02 - Inkline Wiki/Remote Repo/publish/attachments",
     "02 - Inkline Wiki/Remote Repo/publish",
     "02 - Inkline Wiki/WordPress",

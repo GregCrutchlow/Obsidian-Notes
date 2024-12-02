@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiClipboardEdit",
+      "LiBookText",
+      "LiPrinter",
+      "LiCode2",
+      "LiCalendarDays"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "01 - Personal": "LiExperiment",
+  "02 - Inkline Wiki": "LiAlarmClock",
+  "01 - Personal/Daily Notes": "LiCalendarDays",
+  "01 - Personal/Code": "LiCode2",
+  "01 - Personal/3D Printing": "LiPrinter",
+  "01 - Personal/Guides": "LiBookText",
+  "01 - Personal/Magic The Gathering": "LiClipboardEdit"
+}
