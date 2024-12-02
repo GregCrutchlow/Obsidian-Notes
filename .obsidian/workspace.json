@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Personal/Magic The Gathering/Cards to Collect.md",
+                "file": "01 - Personal/Magic The Gathering/Upgrading Decks/Upgrading Decks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cards to Collect"
+              "title": "Upgrading Decks"
             }
           }
         ]
@@ -190,6 +190,10 @@
   },
   "active": "7958fa8a9046e9fe",
   "lastOpenFiles": [
+    "01 - Personal/Magic The Gathering/To Be Built Decks/Decks to be Built.md",
+    "01 - Personal/Magic The Gathering/Upgrading Decks/Upgrading Decks.md",
+    "01 - Personal/Magic The Gathering/Rework Decks/Decks to Rework.md",
+    "01 - Personal/Magic The Gathering/Cards to Collect.md",
     "01 - Personal/Magic The Gathering/Built Decks/Built Decks.md",
     "README.md",
     "02 - Inkline Wiki/JetEngine/Dynamic Image.md",
@@ -222,10 +226,6 @@
     "02 - Inkline Wiki/Remote Repo/publish/works-out-of-the-box-with-markdown-files.md",
     "02 - Inkline Wiki/Remote Repo/publish/update-publish-settings-github-actions.md",
     "02 - Inkline Wiki/Remote Repo/publish/statically-generated.md",
-    "02 - Inkline Wiki/Remote Repo/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "02 - Inkline Wiki/Remote Repo/publish/reinventing-the-wheel.md",
-    "02 - Inkline Wiki/Remote Repo/publish/how-linked-blog-starter-works.md",
-    "02 - Inkline Wiki/Remote Repo/publish/install-linked-blog-starter-locally.md",
     "02 - Inkline Wiki/Remote Repo/publish/attachments",
     "02 - Inkline Wiki/Remote Repo/publish",
     "02 - Inkline Wiki/WordPress",
