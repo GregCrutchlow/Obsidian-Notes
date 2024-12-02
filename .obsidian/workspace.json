@@ -192,14 +192,26 @@
   "lastOpenFiles": [
     "01 - Personal/Extras/Templates/Template, Daily Note.md",
     "01 - Personal/Daily Notes/2024/December/December 2, 2024.md",
+<<<<<<< HEAD
     "01 - Personal/Daily Notes/December 2, 2024.md",
     "2024-12-02.md",
+=======
+    "December 3, 2024.md",
+    "README.md",
+    "2024-12-02.md",
+    "01 - Personal/Magic The Gathering/Upgrading Decks/Upgrading Decks.md",
+    "01 - Personal/Magic The Gathering/To Be Built Decks/Decks to be Built.md",
+    "01 - Personal/Magic The Gathering/Rework Decks/Decks to Rework.md",
+    "01 - Personal/Magic The Gathering/Cards to Collect.md",
+    "01 - Personal/Magic The Gathering/Built Decks/Built Decks.md",
+    "02 - Inkline Wiki/JetEngine/Dynamic Image.md",
+    "02 - Inkline Wiki/JetEngine/FAQ Accordion.md",
+>>>>>>> 3ddd447855e42543524c39ae1935a8521de6f64c
     "01 - Personal/Daily Notes/2024/December/December 1, 2024.md",
     "02 - Inkline Wiki/JetEngine/Dynamic Image.md",
     "02 - Inkline Wiki/JetEngine/FAQ Accordion.md",
     "01 - Personal/Code/HTML/Snippets or Code Blocks.md",
     "01 - Personal/Code/CSS/Snippets or Code Blocks.md",
-    "README.md",
     "01 - Personal/Code/Git/SSH Credential Setup.md",
     "01 - Personal/Code/Git/General Workflow.md",
     "02 - Inkline Wiki/JetFormBuilder/Icon Picker.md",
@@ -211,7 +223,6 @@
     "01 - Personal/3D Printing/3D Printer Upgrades.md",
     "02 - Inkline Wiki/Go High Level/Email Consent Setup.md",
     "02 - Inkline Wiki/Go High Level/Calendar Booking.md",
-    "02 - Inkline Wiki/Elementor/Hello Elementor Child.md",
     "02 - Inkline Wiki/Remote Repo/publish/attachments/vercel-project-id.png",
     "02 - Inkline Wiki/Remote Repo/publish/attachments/vercel-create-token.png",
     "02 - Inkline Wiki/Remote Repo/publish/attachments/publish-dir-yml.png",
@@ -222,10 +233,13 @@
     "02 - Inkline Wiki/Remote Repo/publish/attachments/fn-website-demo.gif",
     "02 - Inkline Wiki/Remote Repo/publish/attachments/enable-actions-github.png",
     "02 - Inkline Wiki/Remote Repo/publish/attachments/disconnect-repo-vercel.png",
+<<<<<<< HEAD
     "02 - Inkline Wiki/Remote Repo/publish/works-out-of-the-box-with-markdown-files.md",
     "02 - Inkline Wiki/Remote Repo/publish/update-publish-settings-github-actions.md",
     "02 - Inkline Wiki/Remote Repo/publish/statically-generated.md",
     "02 - Inkline Wiki/Remote Repo/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
+=======
+>>>>>>> 3ddd447855e42543524c39ae1935a8521de6f64c
     "02 - Inkline Wiki/Remote Repo/publish/attachments",
     "02 - Inkline Wiki/Remote Repo/publish",
     "02 - Inkline Wiki/WordPress",

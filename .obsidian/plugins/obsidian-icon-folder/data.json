@@ -5,7 +5,17 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
+<<<<<<< HEAD
     "recentlyUsedIcons": [],
+=======
+    "recentlyUsedIcons": [
+      "LiClipboardEdit",
+      "LiBookText",
+      "LiPrinter",
+      "LiCode2",
+      "LiCalendarDays"
+    ],
+>>>>>>> 3ddd447855e42543524c39ae1935a8521de6f64c
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -26,5 +36,16 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
+<<<<<<< HEAD
   }
+=======
+  },
+  "01 - Personal": "LiExperiment",
+  "02 - Inkline Wiki": "LiAlarmClock",
+  "01 - Personal/Daily Notes": "LiCalendarDays",
+  "01 - Personal/Code": "LiCode2",
+  "01 - Personal/3D Printing": "LiPrinter",
+  "01 - Personal/Guides": "LiBookText",
+  "01 - Personal/Magic The Gathering": "LiClipboardEdit"
+>>>>>>> 3ddd447855e42543524c39ae1935a8521de6f64c
 }
