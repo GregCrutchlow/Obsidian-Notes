@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - page-manila
+---
 [[November 30, 2024]]|[[December 2, 2024]]
 
 ### Reflections
