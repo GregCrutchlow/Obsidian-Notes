@@ -1,0 +1,14 @@
+{
+  "linkSite": "scryfall",
+  "imageSize": 0.5,
+  "showPrices": true,
+  "showPricesUsd": true,
+  "showPricesEur": false,
+  "showPricesTix": false,
+  "showSet": true,
+  "requiredPrefix": "",
+  "currencySeparator": " | ",
+  "priceSeparator": " / ",
+  "foilPostfix": " *F*",
+  "foilEtchedPostfix": " *E*"
+}
