@@ -161,6 +161,7 @@ Configure
 Clone
 Complete
 City
+Credit
 Add
 Areas
 As
