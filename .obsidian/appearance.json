@@ -1,9 +1,11 @@
 {
-  "cssTheme": "Obsidianite",
-  "accentColor": "#c21414",
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#c81414",
   "interfaceFontFamily": "Cascadia Code",
   "enabledCssSnippets": [
     "Colored Sidebar Items",
-    "Notebook Backgrounds"
-  ]
+    "Notebook Backgrounds",
+    "Daily Note Themes"
+  ],
+  "theme": "moonstone"
 }

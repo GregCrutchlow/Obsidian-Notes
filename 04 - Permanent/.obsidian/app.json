@@ -1,0 +1,9 @@
+{
+  "livePreview": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "Extras/"
+  ]
+}

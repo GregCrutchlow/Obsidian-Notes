@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "36c778a776f70d96",
+    "type": "split",
+    "children": [
+      {
+        "id": "79ea7e9a2bca0685",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c79918ca6323502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Git/SSH Credential Setup.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SSH Credential Setup"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de28b6e98eb88b73",
+    "type": "split",
+    "children": [
+      {
+        "id": "d66938bf99b3f772",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65b820539b7b7e9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e07822421ce42dd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c00fd15da5bba849",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "828f211925e111e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1d8145fc6109768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b0e45da92dc7d3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6132e97cd33cf746",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "November 30th, 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from November 30th, 2024"
+            }
+          },
+          {
+            "id": "4b0de4fdd1828090",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b6170057620e3b30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "November 30th, 2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of November 30th, 2024"
+            }
+          },
+          {
+            "id": "6ebbabe45afeb5d2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "cb8925b310c01e5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e0da9de62d4a6d2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0c79918ca6323502",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Code/Git/SSH Credential Setup.md",
+    "Daily Notes/2024/December/December 1, 2024.md",
+    "Extras/Templates/Template, New Basic Code Note.md",
+    "Extras/Templates/Template, Daily Note.md",
+    "Code/Git/General Workflow.md",
+    "3D Printing/Filament Guide.md",
+    "3D Printing/3D Printer Upgrades.md",
+    "Daily Notes/2024/November/November 30, 2024.md",
+    "Code/React/Snippets or Code Blocks.md",
+    "Code/JavaScript/Snippets or Code Blocks.md",
+    "Code/HTML/Snippets or Code Blocks.md",
+    "Code/CSS/Snippets or Code Blocks.md",
+    "NaN.md",
+    "NaN.md",
+    "Extras/Templates/Template, New Deck Upgrade.md",
+    "Untitled 1.md",
+    "Magic The Gathering/Upgrading Decks/tp.file.title.md",
+    "JavaScriptTest.md",
+    "JavaScript.md",
+    "Extras/Templates/Template, New Deck.md",
+    "Guides/Templater Guide.md",
+    "Code/Git",
+    "Code/React",
+    "Code/HTML",
+    "Code/CSS",
+    "Code/JavaScript",
+    "Code",
+    "3D Printing/Files to Print.md",
+    "3D Printing",
+    "Magic The Gathering/Cards to Collect.md",
+    "Magic The Gathering/Built Decks/Built Decks.md",
+    "Guides",
+    "Magic The Gathering/Upgrading Decks/Animar.md",
+    "Untitled.canvas",
+    "Daily Notes/2024/November",
+    "Daily Notes/2024/December"
+  ]
+}

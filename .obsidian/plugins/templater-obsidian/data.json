@@ -1,10 +1,6 @@
 {
   "command_timeout": 5,
-<<<<<<< HEAD
   "templates_folder": "",
-=======
-  "templates_folder": "01 - Personal/Extras/Templates",
->>>>>>> 3ddd447855e42543524c39ae1935a8521de6f64c
   "templates_pairs": [
     [
       "",
@@ -12,19 +8,15 @@
     ]
   ],
   "trigger_on_file_creation": true,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-<<<<<<< HEAD
   "enable_folder_templates": true,
-=======
-  "enable_folder_templates": false,
->>>>>>> 3ddd447855e42543524c39ae1935a8521de6f64c
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "06 - Daily Notes",
+      "template": "99 - Meta/Templates/Template, Daily Note.md"
     }
   ],
   "enable_file_templates": false,
@@ -34,11 +26,7 @@
       "template": ""
     }
   ],
-<<<<<<< HEAD
   "syntax_highlighting": true,
-=======
-  "syntax_highlighting": false,
->>>>>>> 3ddd447855e42543524c39ae1935a8521de6f64c
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""

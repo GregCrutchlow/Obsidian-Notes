@@ -1,5 +1,0 @@
-Currently all Calendars (within "Meeting Details") have "Zoom" and "Phone (Please call me at the number provided above.)" set for locations and "Scheherazade Mason" set for the Team Member.
-
-For Automations, there is a Workflow within "Website CTA Book a Call" name "Website CTA Strategy Call - Workflow" that is triggered when a customer books an appointment through the "Free 30 minute strategy call" calendar CTA. This workflow will wait until 1 day before the scheduled meeting to send out an email (Templated email, mentioned later), and then send another templated email 1 hour before the meeting with details including rescheduling and cancellation links. 
-
-Within the email templates "Website CTA Strategy Call Templates", there are links for rescheduling and cancellation, but nothing that provides Zoom links for the meeting itself currently. 

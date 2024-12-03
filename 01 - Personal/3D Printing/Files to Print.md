@@ -1,3 +1,0 @@
-- [ ] Recycling bin wall hanger
-- [ ] plant planters (with new PETG filament)
-- [ ] more Gridfinity baseplates
