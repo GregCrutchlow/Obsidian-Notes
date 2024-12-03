@@ -4,7 +4,7 @@
     "Main Homepage": {
       "value": "00 - Maps of Content/Homepage",
       "kind": "File",
-      "openOnStartup": true,
+      "openOnStartup": false,
       "openMode": "Replace last note",
       "manualOpenMode": "Keep open notes",
       "view": "Default view",
