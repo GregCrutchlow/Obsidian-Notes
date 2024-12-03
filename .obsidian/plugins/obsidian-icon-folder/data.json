@@ -25,9 +25,10 @@
       },
       {
         "rule": "- Projects",
-        "icon": "FasPenNib",
+        "icon": "BoBxsPen",
         "for": "everything",
-        "order": 2
+        "order": 2,
+        "useFilePath": true
       },
       {
         "rule": "- Areas",
