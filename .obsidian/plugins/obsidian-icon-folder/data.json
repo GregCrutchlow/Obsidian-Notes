@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxlGithub",
       "BoBxsPen",
       "LiNotebookText"
     ],
@@ -127,6 +128,26 @@
         "icon": "FabHubspot",
         "for": "everything",
         "order": 17
+      },
+      {
+        "rule": "Dungeons & Dragons",
+        "icon": "FabWizardsOfTheCoast",
+        "for": "folders",
+        "order": 18,
+        "useFilePath": true
+      },
+      {
+        "rule": "TTRPG",
+        "icon": "LiNotebookPen",
+        "for": "everything",
+        "order": 19
+      },
+      {
+        "rule": "Github",
+        "icon": "BoBxlGithub",
+        "for": "everything",
+        "order": 20,
+        "useFilePath": true
       }
     ],
     "extraMargin": {
@@ -148,5 +169,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "01 - Projects": "BoBxsPen"
+  "01 - Projects": "BoBxsPen",
+  "03 - Resources/Github": "BoBxlGithub"
 }

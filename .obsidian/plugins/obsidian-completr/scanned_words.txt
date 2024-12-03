@@ -67,6 +67,8 @@ field
 follow
 filament
 future
+full
+folders
 move
 maintained
 make
@@ -368,6 +370,7 @@ sync
 systems
 scripting
 startup
+specificity
 deck
 decks
 dual
@@ -407,6 +410,7 @@ optional
 other
 operations
 operating
+options
 as
 are
 and
@@ -538,6 +542,7 @@ entire
 exit
 exact
 environment
+either
 no
 new
 notes
@@ -582,6 +587,7 @@ Subsystem
 Sync
 Spring
 Summer
+See
 ve
 very
 video
