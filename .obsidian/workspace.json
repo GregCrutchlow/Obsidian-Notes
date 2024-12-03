@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/Homepage.md",
+                "file": "07 - Archives/Unnamed Archive Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Unnamed Archive Note"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps of Content/Homepage.md"
+                "file": "07 - Archives/Unnamed Archive Note.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline of Unnamed Archive Note"
             }
           },
           {
@@ -191,14 +191,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3c780c3d95728205",
+  "active": "8725b80f16fc0753",
   "lastOpenFiles": [
+    "05 - Fleeting/Unnamed Fleeting Note.md",
+    "07 - Archives/Unnamed Archive Note.md",
+    "01 - Projects/Unnamed Project.md",
+    "00 - Maps of Content/Homepage.md",
     "07 - Archives",
     "05 - Fleeting",
     "01 - Projects",
     "03 - Resources/JavaScript/Snippets or Code Blocks.md",
-    "00 - Maps of Content/Homepage.md",
-    "00 - Maps of Content/Homepage.md",
     "03 - Resources/HTML/Snippets or Code Blocks.md",
     "03 - Resources/HubSpot/HubSpot CMS Setup Steps.md",
     "03 - Resources/HubSpot/HubSpot Certification Notes.md",
@@ -222,12 +224,10 @@
     "99 - Meta/Templates/Template, New Basic Code Note.md",
     "99 - Meta/Templates/Template, New Deck.md",
     "99 - Meta/Templates/Template, New Deck Upgrade.md",
-    "04 - Permanent/Daily Notes/2024/December/December 2, 2024.md",
     "04 - Permanent/Daily Notes/2024/December",
     "04 - Permanent/Daily Notes/2024",
     "04 - Permanent/Daily Notes",
     "Magic The Gathering/Upgrading Decks",
-    "Magic The Gathering",
-    "07 - Archives"
+    "Magic The Gathering"
   ]
 }
