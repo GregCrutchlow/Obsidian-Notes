@@ -1,4 +1,4 @@
-# Obsidian-Sync
+# Obsidian Notes
  
 This is my personal Obsidian repository for my notes. With this, this will allow for me to sync and maintain my notes across multiple machines and operating systems. 
 

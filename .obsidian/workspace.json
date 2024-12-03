@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Magic The Gathering/Cards to Collect.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cards to Collect"
+              "title": "README"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/Magic The Gathering/Cards to Collect.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Cards to Collect"
+              "title": "Outline of README"
             }
           },
           {
@@ -193,6 +193,7 @@
   },
   "active": "de7122c0b41bf05b",
   "lastOpenFiles": [
+    "02 - Areas/Magic The Gathering/Cards to Collect.md",
     "02 - Areas/Magic The Gathering/Built Decks/Built Decks.md",
     "02 - Areas/3D Printing/Files to Print.md",
     "02 - Areas/3D Printing/Filament Guide.md",
@@ -227,7 +228,6 @@
     "06 - Daily Notes/2024/November/November 30, 2024.md",
     "01 - Personal/Daily Notes/2024/December/Untitled.md",
     "02 - Inkline Wiki/Go High Level/Calendar Booking.md",
-    "02 - Inkline Wiki/Go High Level/Email Consent Setup.md",
-    "02 - Inkline Wiki/Elementor/Hello Elementor Child.md"
+    "02 - Inkline Wiki/Go High Level/Email Consent Setup.md"
   ]
 }
