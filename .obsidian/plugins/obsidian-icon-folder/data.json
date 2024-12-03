@@ -120,6 +120,12 @@
         "for": "everything",
         "order": 16,
         "useFilePath": true
+      },
+      {
+        "rule": "HubSpot",
+        "icon": "FabHubspot",
+        "for": "everything",
+        "order": 17
       }
     ],
     "extraMargin": {
