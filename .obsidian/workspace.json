@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Git/General Workflow.md",
+                "file": "06 - Daily Notes/2024/December/December 3, 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Workflow"
+              "title": "December 3, 2024"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/Git/General Workflow.md"
+                "file": "06 - Daily Notes/2024/December/December 3, 2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of General Workflow"
+              "title": "Outline of December 3, 2024"
             }
           },
           {
@@ -193,8 +193,10 @@
   },
   "active": "8725b80f16fc0753",
   "lastOpenFiles": [
-    "03 - Resources/Github/Github General Information.md",
+    "99 - Meta/Templates/Template, Daily Note.md",
+    "06 - Daily Notes/2024/December/December 3, 2024.md",
     "03 - Resources/Git/General Workflow.md",
+    "03 - Resources/Github/Github General Information.md",
     "03 - Resources/Github",
     "03 - Resources/HubSpot/HubSpot CMS Setup Steps.md",
     "03 - Resources/HubSpot/HubSpot Certification Notes.md",
@@ -223,13 +225,11 @@
     "02 - Areas/Magic The Gathering/Rework Decks/Decks to Rework.md",
     "02 - Areas/Magic The Gathering/To Be Built Decks/Decks to be Built.md",
     "README.md",
-    "06 - Daily Notes/2024/December/December 3, 2024.md",
     "06 - Daily Notes/2024/December/December 2, 2024.md",
     "06 - Daily Notes/2024/December/December 1, 2024.md",
     "03 - Resources/Git/SSH Credential Setup.md",
     "01 - Projects/Obsidian",
     "02 - Areas/Magic The Gathering/Upgrading Decks/Upgrading Decks.md",
-    "99 - Meta/Templates/Template, Daily Note.md",
     "99 - Meta/Templates/Template, New Basic Code Note.md"
   ]
 }
