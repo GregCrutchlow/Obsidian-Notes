@@ -2,3 +2,6 @@
 Tuesday December 3, 2024 3:55:41pm
 <%tp.date.now("MMMM )
 Monday December 2, 2024 11:10:27pm
+<%tp.date.now("dddd )
+Tuesday December 3, 2014
+<%tp.date.now("dddd MMMM )

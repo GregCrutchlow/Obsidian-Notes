@@ -3,6 +3,7 @@ date: Tuesday December 3, 2024 3:55:41pm
 tags: Daily
 cssclasses: daily - tuesday
 ---
+[[December 2, 2024]]
 
 It's been an odd day today. The weather isn't the best, it's cold and gloomy outside. News from around the world has been, honestly, [shit](https://www.cbc.ca/news/world/south-korea-martial-law-1.7399501).
 
