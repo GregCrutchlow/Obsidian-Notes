@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Fleeting/Atmospheric Ideas.md",
+                "file": "06 - Daily Notes/2024/December/December 3, 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atmospheric Ideas"
+              "title": "December 3, 2024"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Fleeting/Atmospheric Ideas.md"
+                "file": "06 - Daily Notes/2024/December/December 3, 2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Atmospheric Ideas"
+              "title": "Outline of December 3, 2024"
             }
           },
           {
@@ -191,16 +191,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8725b80f16fc0753",
+  "active": "3c780c3d95728205",
   "lastOpenFiles": [
+    "02 - Areas/TTRPG/TTRPGs to Try.md",
     "06 - Daily Notes/2024/December/December 3, 2024.md",
+    "05 - Fleeting/Atmospheric Ideas.md",
+    "02 - Areas/TTRPG",
     "99 - Meta/Templates/Template, Daily Note.md",
     "03 - Resources/Git/General Workflow.md",
     "03 - Resources/Github/Github General Information.md",
     "03 - Resources/Github",
     "03 - Resources/HubSpot/HubSpot CMS Setup Steps.md",
     "03 - Resources/HubSpot/HubSpot Certification Notes.md",
-    "05 - Fleeting/Atmospheric Ideas.md",
     "02 - Areas/TTRPG",
     "02 - Areas/TTRPG/Dungeons & Dragons/World Ideas",
     "02 - Areas/Dungeons & Dragons/Untitled.md",
@@ -228,8 +230,6 @@
     "06 - Daily Notes/2024/December/December 2, 2024.md",
     "06 - Daily Notes/2024/December/December 1, 2024.md",
     "03 - Resources/Git/SSH Credential Setup.md",
-    "01 - Projects/Obsidian",
-    "02 - Areas/Magic The Gathering/Upgrading Decks/Upgrading Decks.md",
-    "99 - Meta/Templates/Template, New Basic Code Note.md"
+    "02 - Areas/Magic The Gathering/Upgrading Decks/Upgrading Decks.md"
   ]
 }

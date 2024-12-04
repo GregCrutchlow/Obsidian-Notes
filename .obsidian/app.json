@@ -3,5 +3,6 @@
   "vimMode": false,
   "propertiesInDocument": "source",
   "foldHeading": false,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true
 }
