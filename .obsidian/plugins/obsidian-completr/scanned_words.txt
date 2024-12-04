@@ -44,6 +44,8 @@ top
 than
 these
 tuesday
+touch
+typing
 file
 function
 for
@@ -69,6 +71,8 @@ filament
 future
 full
 folders
+fingers
+found
 move
 maintained
 make
@@ -95,6 +99,7 @@ machine
 message
 multiple
 maintain
+modifier
 Magic
 Mono
 Monday
@@ -123,6 +128,7 @@ GitHub
 Go
 GPG
 Gridfinity
+Getting
 Be
 Built
 Been
@@ -134,6 +140,7 @@ Boys
 Brooks
 Bash
 By
+Bluesky
 Decks
 Dual
 December
@@ -216,6 +223,8 @@ clone
 commands
 cable
 chain
+cold
+caps
 Remove
 Red
 RW
@@ -246,6 +255,7 @@ information
 into
 isn
 initialize
+issues
 list
 link
 lists
@@ -269,6 +279,12 @@ ll
 location
 left
 laptop
+learning
+lock
+likes
+leave
+lot
+look
 will
 well
 within
@@ -303,6 +319,9 @@ working
 works
 wall
 workflows
+weather
+world
+waterproof
 be
 built
 but
@@ -327,6 +346,11 @@ bed
 bin
 baseplates
 backups
+best
+better
+break
+bar
+backspace
 show
 solely
 sunday
@@ -371,6 +395,11 @@ systems
 scripting
 startup
 specificity
+second
+shift
+since
+solving
+setting
 deck
 decks
 dual
@@ -394,6 +423,9 @@ default
 descriptive
 different
 desktop
+decades
+done
+documentation
 only
 of
 or
@@ -411,6 +443,8 @@ other
 operations
 operating
 options
+odd
+outside
 as
 are
 and
@@ -448,6 +482,7 @@ access
 attach
 allow
 automatically
+app
 potentially
 pips
 pull
@@ -481,6 +516,11 @@ plant
 planters
 personal
 pulls
+praises
+printing
+planter
+plan
+properly
 generic
 guilds
 get
@@ -493,6 +533,8 @@ going
 garage
 generate
 give
+gloomy
+giving
 up
 use
 used
@@ -543,6 +585,7 @@ exit
 exact
 environment
 either
+earlier
 no
 new
 notes
@@ -574,6 +617,8 @@ his
 hours
 how
 hanger
+honestly
+habits
 Sunday
 Setup
 Setting
@@ -608,12 +653,14 @@ recommended
 running
 right
 repositories
+really
 keybinds
 keyboard
 keeping
 kicked
 keys
 key
+know
 Erika
 Ed
 Enter
@@ -636,6 +683,7 @@ New
 Now
 Notes
 Nacatl
+News
 PC
 Paste
 PETG
