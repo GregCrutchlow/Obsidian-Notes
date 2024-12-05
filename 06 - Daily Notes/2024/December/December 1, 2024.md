@@ -3,7 +3,8 @@ date: Sunday December 1, 2024 11:08:10pm
 tags: Daily
 cssclasses: daily - sunday
 ---
-[[November 30, 2024]]
+[[November 30, 2024]] | [[December 2, 2024]]
+*** 
 
 Daily was a bit of an interesting day again.
 

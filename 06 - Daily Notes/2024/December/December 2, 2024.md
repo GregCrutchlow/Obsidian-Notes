@@ -3,7 +3,7 @@ date: Monday December 2, 2024 11:10:27pm
 tags: Daily
 cssclasses: daily - monday
 ---
-[[December 1, 2024]]
+[[December 1, 2024]] | [[December 3, 2024]]
 
 First Monday of the last month of the year.
 

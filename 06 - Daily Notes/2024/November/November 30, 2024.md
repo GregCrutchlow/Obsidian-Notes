@@ -1,6 +1,5 @@
-[[December 1, 2024]]
-
-### Reflections
+[[December 1, 2024]] 
+***
 
 Today was a good day, despite some downsides. Nothing bad actually happened, just unfortunate happenstances. Spent time with the boys today at a holiday parade. Was fun, but it was terribly cold for how cold it was since were were standing stationary for over an hour. 
 
