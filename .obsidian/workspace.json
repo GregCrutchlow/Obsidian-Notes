@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily Notes/2024/December/December 5, 2024.md",
+                "file": "03 - Resources/Git/Git Documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "December 5, 2024"
+              "title": "Git Documentation"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily Notes/2024/December/December 5, 2024.md"
+                "file": "03 - Resources/Git/Git Documentation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of December 5, 2024"
+              "title": "Outline of Git Documentation"
             }
           },
           {
@@ -191,11 +191,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a0c74644546330d2",
+  "active": "def3d268caa68b10",
   "lastOpenFiles": [
-    "06 - Daily Notes/2024/December/December 4, 2024.md",
+    "03 - Resources/Git/General Workflow.md",
+    "03 - Resources/Git/Git Documentation.md",
+    "03 - Resources/Git/SSH Credential Setup.md",
     "06 - Daily Notes/2024/December/December 5, 2024.md",
+    "07 - Archives/attachments/bafkreifv4nf3nglqe3cc64545tpg56vpuni6h5ttwirpz74khh6n5fae7q.jpg",
+    "07 - Archives/attachments/bafkreidnfbnkopam73eldp5g7yo6ntno7g7k66rfhlumevpxpnbwdkur5e.jpg",
+    "05 - Fleeting/Atmospheric Ideas.md",
+    "11 - BLAAAh",
+    "10 - Blah",
+    "09 - Something Else",
+    "08 - Something",
+    "07 - Archives/Untitled",
+    "02 - Areas/TTRPG/TTRPGs to Try.md",
+    "02 - Areas/3D Printing/Files to Print.md",
     "01 - Projects/Unnamed Project.md",
+    "06 - Daily Notes/2024/December/December 4, 2024.md",
     "99 - Meta/Templates/Template, Daily Note.md",
     "06 - Daily Notes/2024/November/November 30, 2024.md",
     "06 - Daily Notes/2024/December/December 1, 2024.md",
@@ -206,30 +219,17 @@
     "02 - Areas/Magic The Gathering/Decks Being Built",
     "02 - Areas/Magic The Gathering/Decks Being Built",
     "02 - Areas/Magic The Gathering/Cards to Collect.md",
-    "02 - Areas/TTRPG/TTRPGs to Try.md",
     "Tuesday December 3, 2024.md",
     "().md",
     "00 - Maps of Content/Homepage.md",
-    "05 - Fleeting/Atmospheric Ideas.md",
     "02 - Areas/TTRPG",
-    "03 - Resources/Git/General Workflow.md",
     "03 - Resources/Github/Github General Information.md",
     "03 - Resources/Github",
     "03 - Resources/HubSpot/HubSpot CMS Setup Steps.md",
     "03 - Resources/HubSpot/HubSpot Certification Notes.md",
     "02 - Areas/TTRPG",
-    "02 - Areas/TTRPG/Dungeons & Dragons/World Ideas",
     "02 - Areas/Dungeons & Dragons/Untitled.md",
-    "02 - Areas/TTRPG/Dungeons & Dragons",
     "05 - Fleeting/Unnamed Fleeting Note.md",
-    "07 - Archives/attachments/bafkreidnfbnkopam73eldp5g7yo6ntno7g7k66rfhlumevpxpnbwdkur5e.jpg",
-    "07 - Archives/attachments/bafkreifv4nf3nglqe3cc64545tpg56vpuni6h5ttwirpz74khh6n5fae7q.jpg",
-    "07 - Archives/attachments",
-    "07 - Archives",
-    "05 - Fleeting",
-    "03 - Resources/JavaScript/Snippets or Code Blocks.md",
-    "03 - Resources/HTML/Snippets or Code Blocks.md",
-    "02 - Areas/3D Printing/Files to Print.md",
-    "02 - Areas/3D Printing/Filament Guide.md"
+    "03 - Resources/JavaScript/Snippets or Code Blocks.md"
   ]
 }

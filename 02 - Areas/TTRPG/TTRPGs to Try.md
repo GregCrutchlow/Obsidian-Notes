@@ -8,4 +8,5 @@
 - [ ] Mausritter
 - [ ] Mazes
 - [ ] Dragonbane
+- [ ] 52 Realms: Adventures (bought on [Kickstarter](https://www.kickstarter.com/projects/postmarkgames/52-realms-adventures?ref=user_menu))
 - [ ] 
