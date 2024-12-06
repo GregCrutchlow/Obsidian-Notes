@@ -14,3 +14,8 @@ One issue that has arisen with this print so far, is the size of the magnets use
 
 The lid came out quite nice, the matte finish I think is a great fit for this box.
 
+Printed the rest of the box throughout the day today while I worked, and it came out beautifully. The corners of the main box lifted during the print (I don't know why). I showed it to Val, since she "hired" me to do the printing job. She loved how it turned out. I'm very excited for her to get it and eventually gift it to Brian. He'll love how dumb/awesome it is haha. The green filament I picked up today ended up being the perfect green for the dumpster look. Very happy about it.
+
+I'm going to design, to my specifications, my own deck box. I'm doing it for my rat deck(s), and it's going to be modeled off a block of cheese. Something like Swiss, so it has holes and you can see the cards. I'm using the measurements from the box that Val hired me to print since it's dimensions are perfect for my deck sizes that are generally doubled sleeved.
+
+I found out my Spotify Wrapped and my top artists/songs of the year were. Not surprisingly, Silent Planet was my #1 band to listen to as well as song, which was Antimatter. All the other suspects were there of course, including Knocked Loose. They started off in my ear, not too great, but they soon grew on me with their latest album. Went back into their discography and I have loved all of their stuff. 
