@@ -96,6 +96,8 @@ tz
 tQn
 tc
 tuT
+turned
+their
 file
 function
 for
@@ -168,6 +170,7 @@ fi
 fNcL
 fn
 fPC
+friday
 move
 maintained
 make
@@ -239,6 +242,8 @@ mv
 mkE
 mSL
 mE
+main
+modeled
 Magic
 Mono
 Monday
@@ -278,6 +283,7 @@ Mn
 Mv
 Mi
 MAt
+Miranda
 The
 To
 They
@@ -321,6 +327,8 @@ TjY
 Tl
 TN
 Tf
+Tasks
+Twisted
 Gathering
 Green
 Git
@@ -365,6 +373,7 @@ GI
 Gc
 GFk
 GEO
+Get
 Be
 Built
 Been
@@ -390,6 +399,7 @@ BI
 Br
 Bh
 Bj
+Book
 Decks
 Dual
 December
@@ -433,6 +443,7 @@ Dp
 Dw
 DK
 Dv
+Design
 Upgrading
 UB
 UR
@@ -507,6 +518,7 @@ CMPp
 CzB
 CBu
 CC
+Cheese
 Add
 Areas
 As
@@ -568,6 +580,8 @@ Ai
 AtD
 Ac
 Az
+Antimatter
+Around
 cursor
 contain
 colour
@@ -654,6 +668,9 @@ cWu
 cn
 cy
 ckB
+corners
+cheese
+course
 Remove
 Red
 RW
@@ -709,6 +726,7 @@ HfT
 HU
 HAM
 Ha
+Hailey
 Ordered
 Obsidian
 Open
@@ -781,6 +799,7 @@ il
 id
 iO
 ioJ
+including
 list
 link
 lists
@@ -855,6 +874,10 @@ lbQ
 ld
 lj
 le
+lifted
+loved
+listen
+latest
 will
 well
 within
@@ -1005,6 +1028,11 @@ bm
 bdFP
 bL
 bB
+beautifully
+block
+band
+baby
+book
 show
 solely
 sunday
@@ -1116,6 +1144,16 @@ szN
 sY
 sm
 sc
+showed
+specifications
+sizes
+sleeved
+songs
+surprisingly
+song
+suspects
+soon
+stuff
 deck
 decks
 dual
@@ -1202,6 +1240,11 @@ ddy
 dl
 dQF
 dNPK
+dumb
+design
+dimensions
+doubled
+discography
 only
 of
 or
@@ -1255,6 +1298,7 @@ oDf
 ooU
 oF
 oe
+ornament
 as
 are
 and
@@ -1326,6 +1370,9 @@ atn
 ak
 ae
 aU
+awesome
+artists
+album
 potentially
 pips
 pull
@@ -1410,6 +1457,7 @@ pg
 poS
 pR
 pkq
+perfect
 generic
 guilds
 get
@@ -1448,6 +1496,10 @@ gSk
 gR
 gS
 gW
+gift
+green
+generally
+grew
 up
 use
 used
@@ -1540,6 +1592,10 @@ WXzj
 Wd
 WPi
 WSb
+Wrapped
+Went
+Witches
+World
 Quad
 QQ
 QZ
@@ -1575,6 +1631,7 @@ Qz
 QE
 Qs
 QSH
+Quick
 quad
 quite
 quickly
@@ -1643,6 +1700,10 @@ eO
 eN
 ea
 eXb
+excited
+eventually
+ended
+ear
 no
 new
 notes
@@ -1694,6 +1755,7 @@ nd
 nI
 ny
 nB
+note
 hard
 humbled
 have
@@ -1749,6 +1811,10 @@ hSc
 hSq
 hl
 hmQ
+hired
+haha
+happy
+holes
 Sunday
 Setup
 Setting
@@ -1799,6 +1865,12 @@ SA
 ShE
 Sl
 SC
+Something
+Swiss
+Spotify
+Silent
+Saturday
+Stories
 ve
 very
 video
@@ -1893,6 +1965,8 @@ rG
 roi
 rJ
 rct
+rest
+rat
 keybinds
 keyboard
 keeping
@@ -1982,6 +2056,8 @@ JTY
 Ju
 Jh
 Jy
+Journal
+Julien
 you
 your
 year
@@ -2026,6 +2102,7 @@ jj
 ju
 jz
 jR
+job
 First
 For
 Free
@@ -2061,6 +2138,9 @@ Fc
 FH
 Fn
 FQ
+Friday
+Forgotten
+Folklore
 YYYY
 You
 Yt
@@ -2109,6 +2189,7 @@ NJ
 NAZ
 Nt
 Nd
+Not
 PC
 Paste
 PETG
@@ -2189,6 +2270,9 @@ PT
 PkL
 PYP
 PO
+Printed
+Planet
+Print
 Linux
 Little
 LZ
@@ -2222,6 +2306,8 @@ Lz
 Lt
 LA
 LG
+Loose
+Links
 Key
 Knave
 KD
@@ -2248,6 +2334,7 @@ KS
 Km
 KI
 KB
+Knocked
 Val
 VwA
 VG
@@ -2258,6 +2345,7 @@ Vd
 VZ
 VM
 Vs
+Very
 Zs
 Zg
 ZpFB
