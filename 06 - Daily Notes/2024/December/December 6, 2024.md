@@ -13,8 +13,8 @@ Quick Links:[[#Tasks]] | [[#Journal]]
 
 ## Tasks
 ***
-- [ ] Get Hailey's Christmas gift (The Book of Forgotten Witches: Dark & Twisted Folklore & Stories from Around the World)
-- [ ] Get baby book for Miranda/Julien's baby shower
+- [x] Get Hailey's Christmas gift (The Book of Forgotten Witches: Dark & Twisted Folklore & Stories from Around the World)
+- [x] Get baby book for Miranda/Julien's baby shower
 - [ ] Design/Print Hailey's ornament
 - [ ] Design/Print Cheese deck box
 
