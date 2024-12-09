@@ -1,10 +1,11 @@
 {
   "cssTheme": "AnuPpuccin",
   "accentColor": "#c81414",
-  "interfaceFontFamily": "Cascadia Code",
+  "interfaceFontFamily": "Cascadia Code,JetBrains Mono",
   "enabledCssSnippets": [
     "Notebook Backgrounds",
     "Daily Note Themes"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "JetBrains Mono"
 }

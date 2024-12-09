@@ -127,7 +127,8 @@
         "rule": "HubSpot",
         "icon": "FabHubspot",
         "for": "everything",
-        "order": 17
+        "order": 17,
+        "useFilePath": true
       },
       {
         "rule": "Dungeons & Dragons",
