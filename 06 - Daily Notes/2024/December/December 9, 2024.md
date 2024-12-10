@@ -18,3 +18,8 @@ Quick Links:[[#Tasks]] | [[#Journal]]
 
 ## Journal
 ***
+Julian passed away today.
+
+I'll miss him.
+
+Love you big guy.
