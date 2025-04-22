@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "719f79152a37fec3",
+        "id": "b58399c079be1129",
         "type": "tabs",
         "children": [
           {
-            "id": "a0c74644546330d2",
+            "id": "1968025113d951df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily Notes/2024/December/December 12, 2024.md",
+                "file": "00 - Maps of Content/Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "December 12, 2024"
+              "title": "Homepage"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -140,10 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily Notes/2024/December/December 12, 2024.md"
+                "file": "00 - Maps of Content/Homepage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of December 12, 2024"
+              "title": "Outline of Homepage"
             }
           },
           {
@@ -178,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,14 +196,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a0c74644546330d2",
+  "active": "1968025113d951df",
   "lastOpenFiles": [
-    "03 - Resources/HTML/Snippets or Code Blocks.md",
+    "03 - Resources/HubSpot/CMS for Developers II - Best Practices Notes.md",
+    "03 - Resources/HubSpot/HubSpot CMS Setup Steps.md",
+    "03 - Resources/Learning/Coding Lesson Plan.md",
+    "03 - Resources/Learning",
     "03 - Resources/HubSpot/Theme.md",
     "03 - Resources/HubSpot/Templates.md",
-    "03 - Resources/HubSpot/HubSpot CMS Setup Steps.md",
-    "03 - Resources/HubSpot/HubSpot Certification Notes.md",
+    "03 - Resources/Inkline/New Site Launch - How to.md",
     "06 - Daily Notes/2024/December/December 12, 2024.md",
+    "03 - Resources/Inkline",
+    "03 - Resources/HTML/Snippets or Code Blocks.md",
+    "03 - Resources/HubSpot/HubSpot Certification Notes.md",
     "06 - Daily Notes/2024/December/December 11, 2024.md",
     "06 - Daily Notes/2024/December/December 10, 2024.md",
     "06 - Daily Notes/2024/December/December 9, 2024.md",
@@ -216,11 +226,8 @@
     "06 - Daily Notes/2024/December/December 4, 2024.md",
     "06 - Daily Notes/2024/December/December 5, 2024.md",
     "03 - Resources/Git/Git Documentation.md",
-    "03 - Resources/Git/General Workflow.md",
-    "03 - Resources/Git/SSH Credential Setup.md",
     "07 - Archives/attachments/bafkreifv4nf3nglqe3cc64545tpg56vpuni6h5ttwirpz74khh6n5fae7q.jpg",
     "07 - Archives/attachments/bafkreidnfbnkopam73eldp5g7yo6ntno7g7k66rfhlumevpxpnbwdkur5e.jpg",
-    "05 - Fleeting/Atmospheric Ideas.md",
     "11 - BLAAAh",
     "10 - Blah",
     "09 - Something Else",
@@ -228,8 +235,6 @@
     "07 - Archives/Untitled",
     "02 - Areas/Magic The Gathering/Decks Being Built",
     "02 - Areas/Magic The Gathering/Decks Being Built",
-    "02 - Areas/TTRPG",
-    "03 - Resources/Github",
     "02 - Areas/TTRPG"
   ]
 }

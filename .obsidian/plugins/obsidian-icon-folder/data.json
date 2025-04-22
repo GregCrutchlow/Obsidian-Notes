@@ -149,6 +149,13 @@
         "for": "everything",
         "order": 20,
         "useFilePath": true
+      },
+      {
+        "rule": "Inkline",
+        "icon": "InInklinePrimaryLogomarkBlack",
+        "for": "everything",
+        "order": 21,
+        "useFilePath": true
       }
     ],
     "extraMargin": {
